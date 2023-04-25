@@ -1,0 +1,2 @@
+# Projeto GAME Python
+ O código define uma classe chamada 'Calcular', que contém atributos para armazenar a dificuldade da operação, dois valores aleatórios gerados de acordo com a dificuldade e uma operação matemática também aleatória. A classe implementa métodos para gerar valores aleatórios, calcular o resultado da operação e verificar se a resposta do usuário está correta. O código instancia um objeto da classe 'Calcular' com dificuldade 1 e imprime uma representação em string dos valores gerados.
